@@ -1,0 +1,28 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "new-site"
+  },
+  "course_image": {
+    "content": "",
+    "website": "new-site"
+  },
+  "course_title": "New Test",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "new-site"
+  },
+  "learning_resource_types": [],
+  "site_uid": "b5f08893-e027-4787-bfc4-c80fb78812aa"
+}
